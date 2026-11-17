@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-460 -40 1470.0 2220" width="1470.0" height="2220" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1e1e1e"/></marker></defs>
+<rect x="-460" y="-40" width="1470.0" height="2220" fill="#ffffff"/>
+<ellipse cx="130.0" cy="35.0" rx="130.0" ry="35.0" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2"/>
+<polygon points="130.0,130 260,175.0 130.0,220 0,175.0" fill="#ffec99" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="420" y="140" width="260" height="70" rx="12" fill="#b2f2bb" stroke="#1e1e1e" stroke-width="2"/>
+<polygon points="130.0,280 260,325.0 130.0,370 0,325.0" fill="#ffec99" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="420" y="290" width="260" height="70" rx="12" fill="#ffc9c9" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="0" y="430" width="260" height="70" rx="12" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2"/>
+<polygon points="130.0,560 260,605.0 130.0,650 0,605.0" fill="#ffec99" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="420" y="570" width="260" height="70" rx="12" fill="#ffc9c9" stroke="#1e1e1e" stroke-width="2"/>
+<polygon points="130.0,710 260,755.0 130.0,800 0,755.0" fill="#ffec99" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="420" y="720" width="260" height="70" rx="12" fill="#ffc9c9" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="0" y="860" width="260" height="70" rx="12" fill="#ffffff" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="0" y="990" width="260" height="70" rx="12" fill="#ffffff" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="0" y="1120" width="260" height="70" rx="12" fill="#ffffff" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="0" y="1250" width="260" height="70" rx="12" fill="#ffffff" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="0" y="1380" width="260" height="70" rx="12" fill="#d0bfff" stroke="#1e1e1e" stroke-width="2"/>
+<polygon points="130.0,1510 260,1555.0 130.0,1600 0,1555.0" fill="#ffec99" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="420" y="1660" width="260" height="70" rx="12" fill="#d0bfff" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="-420" y="1660" width="260" height="70" rx="12" fill="#d0bfff" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="0" y="1810" width="260" height="70" rx="12" fill="#ffffff" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="0" y="1940" width="260" height="70" rx="12" fill="#ffffff" stroke="#1e1e1e" stroke-width="2"/>
+<ellipse cx="130.0" cy="2105.0" rx="130.0" ry="35.0" fill="#b2f2bb" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="130.0" y1="70" x2="130.0" y2="130" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="260" y1="175.0" x2="420" y2="175.0" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="130.0" y1="220" x2="130.0" y2="280" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="260" y1="325.0" x2="420" y2="325.0" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="130.0" y1="370" x2="130.0" y2="430" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="130.0" y1="500" x2="130.0" y2="560" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="260" y1="605.0" x2="420" y2="605.0" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="130.0" y1="650" x2="130.0" y2="710" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="260" y1="755.0" x2="420" y2="755.0" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="130.0" y1="800" x2="130.0" y2="860" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="130.0" y1="930" x2="130.0" y2="990" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="130.0" y1="1060" x2="130.0" y2="1120" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="130.0" y1="1190" x2="130.0" y2="1250" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="130.0" y1="1320" x2="130.0" y2="1380" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="130.0" y1="1450" x2="130.0" y2="1510" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="130.0" y1="1600" x2="550.0" y2="1660" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="130.0" y1="1600" x2="-290.0" y2="1660" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="550.0" y1="1730" x2="130.0" y2="1810" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="-290.0" y1="1730" x2="130.0" y2="1810" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="130.0" y1="1880" x2="130.0" y2="1940" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<line x1="130.0" y1="2010" x2="130.0" y2="2070" stroke="#1e1e1e" stroke-width="2" marker-end="url(#a)"/>
+<text x="130.0" y="24.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">Webhook</text>
+<text x="130.0" y="45.400000000000006" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">POST /nutrition-check</text>
+<text x="130.0" y="164.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">¿Trae el campo</text>
+<text x="130.0" y="185.4" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">barcode?</text>
+<text x="550.0" y="164.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">Respond - Usage Docs</text>
+<text x="550.0" y="185.4" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">JSON 200 (cómo se usa)</text>
+<text x="130.0" y="325.0" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">¿Es un número?</text>
+<text x="550.0" y="314.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">Respond - Invalid Barcode</text>
+<text x="550.0" y="335.40000000000003" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">JSON 400 + ejemplo</text>
+<text x="130.0" y="454.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">API Call - Open Food Facts</text>
+<text x="130.0" y="475.40000000000003" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">(GET, sigue aunque dé 404)</text>
+<text x="130.0" y="605.0" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">¿status = 1?</text>
+<text x="550.0" y="594.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">Respond - Not Found</text>
+<text x="550.0" y="615.4" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">JSON 404 + ejemplo</text>
+<text x="130.0" y="744.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">¿Azúcar, sal y grasa</text>
+<text x="130.0" y="765.4" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">tienen datos?</text>
+<text x="550.0" y="744.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">Respond - Insufficient Data</text>
+<text x="550.0" y="765.4" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">JSON 200</text>
+<text x="130.0" y="884.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">Extract - Product Fields</text>
+<text x="130.0" y="905.4" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">(energía con corchetes)</text>
+<text x="130.0" y="1014.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">Classify - Traffic Lights</text>
+<text x="130.0" y="1035.4" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">azúcar / sal / grasa</text>
+<text x="130.0" y="1144.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">Classify - Readings</text>
+<text x="130.0" y="1165.3999999999999" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">nº de 'alto' y Nutri-Score</text>
+<text x="130.0" y="1274.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">Classify - Verdict Level</text>
+<text x="130.0" y="1295.3999999999999" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">peor de las dos lecturas</text>
+<text x="130.0" y="1404.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">Code - Concern Score</text>
+<text x="130.0" y="1425.3999999999999" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">nº de 'alto' (0-3)</text>
+<text x="130.0" y="1544.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">¿Nivel =</text>
+<text x="130.0" y="1565.3999999999999" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">no saludable?</text>
+<text x="550.0" y="1684.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">AI - Health Verdict</text>
+<text x="550.0" y="1705.3999999999999" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">(Cautionary) · Groq</text>
+<text x="-290.0" y="1684.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">AI - Health Verdict</text>
+<text x="-290.0" y="1705.3999999999999" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">(Encouraging) · Groq</text>
+<text x="130.0" y="1834.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">Merge - AI Verdict Paths</text>
+<text x="130.0" y="1855.3999999999999" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">(Append)</text>
+<text x="130.0" y="1964.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">Format - Verdict Message</text>
+<text x="130.0" y="1985.3999999999999" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">titular + 🔴/🟢 + párrafo</text>
+<text x="130.0" y="2094.6" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">Respond - Verdict</text>
+<text x="130.0" y="2115.4" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">texto plano 200</text>
+<rect x="326.0" y="154.5" width="28" height="18.2" fill="#ffffff"/>
+<text x="340.0" y="165.0" font-size="14" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e" font-weight="bold">no</text>
+<rect x="116.0" y="229.5" width="28" height="18.2" fill="#ffffff"/>
+<text x="130.0" y="240.0" font-size="14" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e" font-weight="bold">sí</text>
+<rect x="326.0" y="304.5" width="28" height="18.2" fill="#ffffff"/>
+<text x="340.0" y="315.0" font-size="14" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e" font-weight="bold">no</text>
+<rect x="116.0" y="379.5" width="28" height="18.2" fill="#ffffff"/>
+<text x="130.0" y="390.0" font-size="14" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e" font-weight="bold">sí</text>
+<rect x="326.0" y="584.5" width="28" height="18.2" fill="#ffffff"/>
+<text x="340.0" y="595.0" font-size="14" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e" font-weight="bold">no</text>
+<rect x="116.0" y="659.5" width="28" height="18.2" fill="#ffffff"/>
+<text x="130.0" y="670.0" font-size="14" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e" font-weight="bold">sí</text>
+<rect x="326.0" y="734.5" width="28" height="18.2" fill="#ffffff"/>
+<text x="340.0" y="745.0" font-size="14" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e" font-weight="bold">no</text>
+<rect x="116.0" y="809.5" width="28" height="18.2" fill="#ffffff"/>
+<text x="130.0" y="820.0" font-size="14" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e" font-weight="bold">sí</text>
+<rect x="326.0" y="1609.5" width="28" height="18.2" fill="#ffffff"/>
+<text x="340.0" y="1620.0" font-size="14" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e" font-weight="bold">sí</text>
+<rect x="-94.0" y="1609.5" width="28" height="18.2" fill="#ffffff"/>
+<text x="-80.0" y="1620.0" font-size="14" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e" font-weight="bold">no</text>
+</svg>

@@ -2,12 +2,14 @@
 
 Flujo de n8n que recibe el código de barras de un alimento envasado y responde, en lenguaje cercano, si es una buena elección para el día a día o mejor un gusto ocasional.
 
+![Diagrama del flujo SnackCheck](diagram.svg)
+
 Archivos del proyecto:
 
 | Archivo | Qué es |
 |---|---|
 | `snackcheck.workflow.json` | El flujo, listo para importar en n8n |
-| `diagram.excalidraw` | Diagrama del flujo (abrir en excalidraw.com → Open) |
+| `diagram.excalidraw` | Diagrama editable (excalidraw.com → Open). `diagram.svg` es la misma figura como imagen |
 | `TEST_LOG.md` | Registro de pruebas `TC-XXX` |
 | `CHANGELOG.md` | Historial de versiones (SemVer) |
 | `tests/verdict-rules.test.js` | Comprueba las reglas de clasificación con las expresiones reales del flujo |
